@@ -1,24 +1,12 @@
 streamlit
-
-# Data handling
 pandas
 numpy
-
-# Database
 pymongo
-
-# Environment variables
 python-dotenv
-
-# GenAI (Gemini)
 google-generativeai
-
-# Machine Learning & Stats
 scikit-learn
 statsmodels
 scipy
-
-# Visualization
 matplotlib
 seaborn
 plotly
