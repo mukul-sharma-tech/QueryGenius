@@ -10,4 +10,5 @@ statsmodels
 scipy
 matplotlib
 seaborn
+google-generativeai
 plotly
