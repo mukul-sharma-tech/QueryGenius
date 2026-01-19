@@ -1,12 +1,12 @@
 streamlit
+google-generativeai
+python-dotenv
 pandas
 numpy
+plotly
 pymongo
-python-dotenv
 scikit-learn
 statsmodels
-scipy
-matplotlib
 seaborn
-google-generativeai
-plotly
+matplotlib
+scipy
